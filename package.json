@@ -13,9 +13,9 @@
 	},
 	"version": "1.0.0",
 	"description": "The Good Practice Project",
-	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"devDependencies": {},
 	"author": "Tanvi Bhadiyadra",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
