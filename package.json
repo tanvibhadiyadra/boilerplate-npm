@@ -13,6 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "The Good Practice Project",
+	"keywords": ["freecodecamp","Practice","Tanvi","Wholesome"],
 	"devDependencies": {},
 	"author": "Tanvi Bhadiyadra",
 	"license": "ISC",
